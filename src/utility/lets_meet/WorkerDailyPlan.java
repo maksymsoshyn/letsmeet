@@ -1,11 +1,7 @@
 package utility.lets_meet;
 
-import java.text.SimpleDateFormat;
-import java.time.Duration;
-import java.util.Collection;
 import java.util.Date;
 import java.util.List;
-import java.util.TreeSet;
 import java.util.stream.Collectors;
 
 public class WorkerDailyPlan {
