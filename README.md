@@ -25,7 +25,7 @@ Note, that you can use raw strings instead of file path arguments. But remember 
 # Structure of your meeting file or string
 
 It can be JSON:
-```json
+```textmate
 {
   "working_hours": {
     "start": "09:00",
@@ -50,7 +50,7 @@ It can be JSON:
 
 Or in JS Object format
 
-```json
+```
 {
   working_hours: {
     start: "09:00",
