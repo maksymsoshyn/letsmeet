@@ -1,4 +1,4 @@
-# Let's Meet Simple App
+# Let's Meet App
 
 It's simple utility application that allows you, using 2 different calendars, get a gap in which you can insert a new meeting
 # Prerequirements
@@ -25,7 +25,7 @@ Note, that you can use raw strings instead of file path arguments. But remember 
 # Structure of your meeting file or string
 
 It can be JSON:
-```json
+```textmate
 {
   "working_hours": {
     "start": "09:00",
@@ -50,7 +50,7 @@ It can be JSON:
 
 Or in JS Object format
 
-```json
+```
 {
   working_hours: {
     start: "09:00",
