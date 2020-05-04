@@ -1,4 +1,4 @@
-# Let's Meet Simple App
+# Let's Meet App
 
 It's simple utility application that allows you, using 2 different calendars, get a gap in which you can insert a new meeting
 # Prerequirements
